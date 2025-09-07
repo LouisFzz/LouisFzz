@@ -2,7 +2,7 @@
 Hi, I'm LouisFzz 🇻🇪(Luisangel Ferizzola). I'm a Systems Engineering student passionate about programming, particularly in mobile development, game creation, and web frontend development.
 
 
-## 🦝 Socials:
+# 🦝 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uisangel-ferizzola-roa-6234a8295) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LUISANGELFR) 
 
 # ♠️ Tech Stack:
